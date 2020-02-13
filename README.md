@@ -16,7 +16,7 @@ Acrônimo de Application Programming Interface (Interface de Programação de Ap
 
 ### REST
 
-um acrônimo para REpresentational State Transfer (Transferência de Estado Representativo).
+Um acrônimo para Representational State Transfer (Transferência de Estado Representativo).
 
 Será feita a transferência de dados de uma maneira simbólica, figurativa, representativa, de maneira didática.
 
@@ -56,7 +56,7 @@ RESTful, é a aplicação dos padrões REST.
 - GET: Receber dados de um Resource.
 - POST: Enviar dados ou informações para serem processados por um Resource.
 - PUT: Atualizar dados de um Resource.
-- DELETE: Deletar um Resource
+- DELETE: Deletar um Resource.
 
 ### STATUS DAS RESPOSTAS
 
